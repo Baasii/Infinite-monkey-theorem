@@ -1,4 +1,4 @@
-# Infinite-monkey-theorem
+# Infinite monkey theorem
 
 This script tests the infinite monkey theorem, which states  that a monkey hitting keys at random on a typewriter keyboard for an infinite amount of time will almost surely type any given text, such as the complete works of William Shakespeare.
 
