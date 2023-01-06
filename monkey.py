@@ -30,8 +30,8 @@ with open('hamlet.txt') as hamlet:
                 inputLength = random.randint(shortestLength, longestLength) #Generate random length between shortest and longest word
                 typedWord = ( ''.join(random.choice(letters) for i in range(inputLength)) ) #Random string
                 print(typedWord)
-                time.sleep(0.00011) #Time between comparisons
-                typedWord = "francisco"
+                #time.sleep(0.00011) #Time between comparisons
+                #typedWord = "francisco"
 
                 
                 if typedWord == f[currentWord]: #If string is found in Hamlet ->      
